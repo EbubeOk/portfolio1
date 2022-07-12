@@ -34,7 +34,8 @@ export const Blog = <FaLink />;
   Add a second paragraph for the about me section.
 */
 export const moreInfo =
-  "An innovative software engineer who is passionate about technology, enjoys learning more about it and helping others use it to improve their lives and be more productive. Welcome to a showcase of my projects and abilities.";
+  "An innovative software engineer who is passionate about technology, enjoys learning more about it and helping others use it to improve their lives and be more productive.";
+//Welcome to a showcase of my projects and abilities.
 //I built this site with React, Bootstrap, Redux, and the GitHub REST API
 
 /* Skills
